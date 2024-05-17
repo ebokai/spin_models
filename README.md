@@ -1,1 +1,1 @@
-# spin_models
+# Spin models
